@@ -6,6 +6,11 @@ public class Ejemplo2_javagit {
 		
 		System.out.println("!!    Cambio 1   !!");
 		
+		int [] numeros = new int[4];
+		
+		
+		
+		
 		
 
 	}
